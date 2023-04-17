@@ -1,0 +1,4 @@
+Primitive variable
+string
+bool
+const
